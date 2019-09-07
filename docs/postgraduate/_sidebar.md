@@ -1,0 +1,1 @@
+* [政治](/postgraduate/political/)

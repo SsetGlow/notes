@@ -1,3 +1,4 @@
 * [Home](/)
-* [马原](/postgraduate/political/PrinciplesOfMarxism.md)
+* [考研学习](/postgraduate/)
+
  
