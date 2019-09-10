@@ -1,2 +1,2 @@
-# POSTGRADUTATION
+# SOME DAILY NOTES
 > ssetglow
