@@ -6,6 +6,8 @@
 
 <hr>
 
+### 单词
+
 1. (n.)regime  统治制度，政权，政体
 2. (n.)colonialism  殖民主义
 3. (a.)sovereign  (国家)有主权的，完全独立的 
@@ -54,3 +56,39 @@
 46. (n.)surgery  外科
 
 <hr>
+
+## 2019.9.11
+
+<hr>
+
+### 单词
+
+1. (n.)supplment  (报纸、杂志等的)副刊
+2. (v.)feature  以......为特色
+3. (n.)column  (报纸、杂志的)专栏(文章)
+4. (a.)visual  视觉的
+5. (n.)analogy  类似，类比，类推
+6. (v.)envision  想象，设想
+7. (v.)field  处理，应付(问题或意见)
+8. (n.)query  疑问
+9. (n.)coincidence  巧合
+10. (v.)visualize  想象，设想
+11. (v.)elude  难倒
+12. (v.)populate  居住于，事物在......占有位置
+13. (n.)peer  同龄人
+14. (n.)indicator  指标
+15. (a.)verbal  词汇的，文字的
+16. (n.)component  因素
+17. (a.)critical  重要的
+18. (a.)impartial  公正的
+19. ()
+20.  
+
+
+
+###  短语
+
+1. come in two forms  有两种形式
+2. population distribution  人口分布
+3. negatively/positively correlated with... (与.....负/正 相关)
+4. toil through 艰难涉险，历尽困苦做某事
