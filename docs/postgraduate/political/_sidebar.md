@@ -1,2 +1,2 @@
-* [马原](/postgraduate/political/PrinciplesOfMarxism.md)
+* [马原](/postgraduate/political/PrinciplesOfMarxism/)
 * [返回上一级](/postgraduate/)
