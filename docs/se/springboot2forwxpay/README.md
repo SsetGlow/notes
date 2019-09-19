@@ -1,4 +1,19 @@
+<!-- TOC -->
 
+- [SpringBoot 2.X for WeiXin Pay](#springboot-2x-for-weixin-pay)
+    - [第一章项目介绍和前期准备](#第一章项目介绍和前期准备)
+    - [第二章 项目基础环境搭建和逆向工程构建](#第二章-项目基础环境搭建和逆向工程构建)
+    - [第三章 开发在线教育视频站点核心业务之视频列表相关接口开发](#第三章-开发在线教育视频站点核心业务之视频列表相关接口开发)
+    - [第四章 开发在线教育视频站点核心业务之JWT微服务下的用户登录权限校验](#第四章-开发在线教育视频站点核心业务之jwt微服务下的用户登录权限校验)
+    - [第五章 开发在线教育视频站点核心业务之微信授权用户接口开发](#第五章-开发在线教育视频站点核心业务之微信授权用户接口开发)
+    - [第六章 开发在线教育视频站点核心业务之从零基础接入 微信扫一扫网页支付](#第六章-开发在线教育视频站点核心业务之从零基础接入-微信扫一扫网页支付)
+    - [第七章 全局异常处理和日志打点统计](#第七章-全局异常处理和日志打点统计)
+    - [第八章 前后端联调和跨域处理](#第八章-前后端联调和跨域处理)
+    - [第九章 生产环境搭建部署](#第九章-生产环境搭建部署)
+    - [第十章 线上环境应用集群部署](#第十章-线上环境应用集群部署)
+    - [第十一章 课程总结和第二季课程介绍](#第十一章-课程总结和第二季课程介绍)
+
+<!-- /TOC -->
 
 # SpringBoot 2.X for WeiXin Pay
 
@@ -940,7 +955,7 @@ private final static String OPEN_QRCODE_URL= "<https://open.weixin.qq.com/connec
 	    response.setContentType("text/xml");
 	    response.getWriter().println("success");
 15、微信支付之下单事务处理 简介：讲解下单接口增加事务和常见的事务选择 1、springboot开启事务，启动类里面增加 @EnableTransactionManagement 2、需要事务的方法上加 @Transactional(propagation = Propagation.REQUIRED) 3、aop的管理事务的好处和选择 增，删，改 开启事务
-## 第七章，全局异常处理和日志打点统计
+## 第七章 全局异常处理和日志打点统计
 1、配置SpringBoot2.0全局自定义异常 简介：讲解springboot全局自定义异常的使用 1、自定义异常类 2、配置使用
 2、使用Logback整合SpringBoot打点日志 简介：使用日志框架整合SpringBoot，并进行打点统计
 1、日志不仅用于排查问题，查看应用运行情况
@@ -950,7 +965,7 @@ private final static String OPEN_QRCODE_URL= "<https://open.weixin.qq.com/connec
 
     3、写日志，可以加缓冲buffer，也可也进行异步
     参考资料：<https://blog.csdn.net/zhuyucheng123/article/details/21524549>
-## 第八章：前后端联调和跨域处理
+## 第八章 前后端联调和跨域处理
 1、联调效果演示和还原接口代码
 	简介：演示完成联调的效果和还原后端部分接口
 
@@ -1057,7 +1072,7 @@ private final static String OPEN_QRCODE_URL= "<https://open.weixin.qq.com/connec
 
 6、网页扫码支付联调
 	简介：讲解微信网页扫码支付联调
-## 第九章，生产环境搭建部署
+## 第九章 生产环境搭建部署
 1、云服务器介绍和阿里云服务器ECS服务器选购 简介：什么是云服务器及目前主要的几个厂商介绍 1、阿里云、腾讯云、亚马逊云 阿里云：https://www.aliyun.com/ 腾讯云：https://cloud.tencent.com/ 亚马逊云：https://aws.amazon.com/
 2、阿里云服务器远程登录和常用工具 简介：讲解阿里云服务器登录使用和常见终端工具 1、windows工具 putty，xshell, security 参考资料： https://jingyan.baidu.com/article/e75057f210c6dcebc91a89dd.htmlhttps://www.jb51.net/softjc/88235.html
 2、苹果系统MAC： 通过终端登录
@@ -1140,7 +1155,7 @@ private final static String OPEN_QRCODE_URL= "<https://open.weixin.qq.com/connec
     3、拓展知识：
     	<https://blog.csdn.net/u012809062/article/details/70307130>
     	<https://blog.csdn.net/csdn_lqr/article/details/53334583>
-## 第十章：线上环境应用集群部署
+## 第十章 线上环境应用集群部署
 1、视频应用阿里云服务器部署安装 简介:讲解视频站点应用部署到阿里云服务器
 1、打包上传
       打包命令，各个系统通用，只要按照maven
