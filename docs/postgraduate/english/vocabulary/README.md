@@ -89,3 +89,82 @@
 2. population distribution  人口分布
 3. negatively/positively correlated with... (与.....负/正 相关)
 4. toil through 艰难涉险，历尽困苦做某事
+
+<hr>
+
+
+
+## 2008真题卷
+
+<hr>
+
+### 单词
+
+1. (n.)hypothesis 假说，假设，前提
+2. (n.)controversy 争论，争辩，论战
+3. (v.)tremble 极担心，焦虑，恐惧
+4. (n.)elite 掌权人物，社会精英
+5. (a.)renowned 著名的
+6. (a.)nasty 危险的
+7. (n.)sphere 范围，领域
+8. (ad.)way (与介词或副词连用)很远，大大地
+9. (n.)psychiatrist 精神科医生，精神病专家
+10. (n.)hormone 荷尔蒙，激素
+11. (n.)trigger 诱因
+12. (a.)stressed-out 极度焦虑的；非常紧张疲惫的
+13. (n.)dose 剂量
+14. (v.)observe 说，评论，评述
+15. (a.)chronic 长期的，慢性的(尤指疾病)
+16. (n.)strain 因有压力而产生的焦虑或紧张
+17. (v.)diffuse 减轻，缓解
+18. (n.)affiliation 隶属关系，从属
+19. (n.)peer 同等的人
+20. (a.)handsome 数量大的
+21. (n.)hybrid 混合物
+22. (n.)frame 体格，身躯，骨架
+23. (v.)obscure 遮掩，遮蔽
+24. (n.)anthropologist 人类学家
+25. (v.)recruit 招募
+26. (ad.)rarely 很少，难得
+27. (ad.)notably 尤其，特别
+28. (n.)protein 蛋白质
+29. (n.)adolescent 青少年
+30. (n.)canal 管，道
+
+
+
+### 短语
+
+1. way ahead 遥遥领先
+2. be susceptible to 易受...影响的
+3. Develop depression and anxiety disorders 患抑郁症和焦虑症
+4. be worn out 筋疲力尽
+5. one-shot deal 一次性事件
+6. wear-and-tear 损耗，磨损
+7. live from paycheck to paycheck 指挣的钱勉强够用，根本没有剩余
+8. rest with 归于，属于
+9. seek knowledge of 想要了解
+10. restrict access to 限制....的权限
+11. scientific endeavour  科学探索
+12. institutional subscribers 机构订户
+13. be freely available to 供...免费使用
+14.  adjust ... to fit ...  调整...以适应...
+15. in the case of 至于
+16. get in the way 阻碍
+17. secular trend 长期趋势
+18.  impose strain 施加压力
+19. set constraints 设限，造成约束
+20. in the near future 在不远的将来
+21. by and large 总的来说，大体上
+22. extract from 从...取出，拔出
+23. make compromise 作出妥协
+24. more and anything 最重要的是
+25. grant...freedom 给予...自由
+26. Legislative approval 立法机构的批准
+27. Work sth into sth 尽量包括，设法把...加进
+28. keep track of 了解...的动态，与...保持联系
+29. Knock sth into shape 把某物敲打成形，把某事物整理好，使某事物更趋完美
+30. a train of thought 思路，思绪
+31. the common/general/ordinary/usual run of 普通类型的
+32. in one/some/every respect(s) 在某个/某些/所有方面
+33. be injurious to 对...有害

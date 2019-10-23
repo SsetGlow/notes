@@ -1,7 +1,7 @@
 
 # 作文
 
-## 2019.9.18
+## 2008真题卷
 
 ### 建议信常用表达
 
@@ -53,3 +53,45 @@
 2. With confidence, you can reach truly amazing heights; without confidence, even the simplest accomplishments are beyond your grasp.(Jim Loehr, a world-renowned psychologist)
 
    有了信心，你可以到达惊人的高峰；没有信心，即使是最简单的成就也变得遥不可及。（世界著名心理学家 吉姆·罗尔）
+
+<hr>
+
+## 2009真题卷
+
+
+
+### 道歉信常用表达
+
+1. make an apology to 向...道歉
+2. it is not until...that... 直到...才...
+3. make up for 弥补
+4. as a token of 以...表示
+
+开篇：说明写作目的
+
+1. I owe you an apology for... 
+2. i am very sorry for my careless mistake that... 
+3. i must beg your forgiveness for my...
+4. please accept this letter as my formal apology for
+
+中间段：说明理由/提出解决措施
+
+1. In retrospect,i believe the situation resulted from... 回想起来。。。
+2. Would it be convenient for you if ...
+3. would you prefer..
+4. to compensate for my carelessness, i'd like to ...
+
+结尾：表示歉意
+
+1. i am truly sorry that ..for my part i wll do my best to make up for the trouble i have caused.
+2. i look forward to hearing from you and putting this matter behind us.
+
+### 话题表述补充
+
+1. Effective cooperation 有效合作
+2. mutual cooperation 互相合作
+3. close cooperation 紧密合作
+4. team morale 团队士气
+5. Complement each other 相辅相成、优势互补
+6. two heads are better than one 人多力量大
+7. many hands make light work 众人拾柴火焰高
