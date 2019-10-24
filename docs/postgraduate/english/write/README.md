@@ -1,7 +1,7 @@
 
 # 作文
 
-## 2008真题卷
+## 2007真题卷
 
 ### 建议信常用表达
 
@@ -56,7 +56,7 @@
 
 <hr>
 
-## 2009真题卷
+## 2008真题卷
 
 
 
@@ -95,3 +95,45 @@
 5. Complement each other 相辅相成、优势互补
 6. two heads are better than one 人多力量大
 7. many hands make light work 众人拾柴火焰高
+
+
+
+<hr>
+
+## 2009真题卷
+
+### 建议信常用表达
+
+
+
+开篇：说明写作目的
+
+1. it is my pleasure to offer you some advice on
+2. i am writing this letter to suggest you that
+
+中间段：罗列建议
+
+1. My suggestions are as follows
+2. i propose that... this will save you money and worry
+
+结尾：表达期待
+
+1. i hope this suggestion is of benefit to you. i will be delighted to speak to you if you require additional information
+2. i hope you will find these suggestions/proposals helpful/useful/practical
+
+
+
+### 话题补充表述
+
+1. Internet users 互联网用户
+2. have access to the internet/surf online/get on the internet 上网
+3. computers attched to the internet 联网的电脑
+4. spread news 传播消息
+5. search engine 搜索引擎
+6. Communication tool 交流工具
+7. inline game 网络游戏
+8. diversity of information 各种各样的消息
+9. breaking news/up-to-date news 及时新闻
+
+<hr>
+
