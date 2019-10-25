@@ -1,3 +1,24 @@
+<!-- TOC -->
+
+- [作文](#作文)
+    - [2007真题卷](#2007真题卷)
+        - [建议信常用表达](#建议信常用表达)
+        - [话题表述补充](#话题表述补充)
+        - [名人名句](#名人名句)
+    - [2008真题卷](#2008真题卷)
+        - [道歉信常用表达](#道歉信常用表达)
+        - [话题表述补充](#话题表述补充-1)
+    - [2009真题卷](#2009真题卷)
+        - [建议信常用表达](#建议信常用表达-1)
+        - [话题补充表述](#话题补充表述)
+    - [2010真题卷](#2010真题卷)
+        - [招募启事常用表达](#招募启事常用表达)
+        - [话题补充材料](#话题补充材料)
+    - [2011真题卷](#2011真题卷)
+        - [辞职信常用表达](#辞职信常用表达)
+        - [话题补充材料](#话题补充材料-1)
+
+<!-- /TOC -->
 
 # 作文
 
@@ -134,6 +155,76 @@
 7. inline game 网络游戏
 8. diversity of information 各种各样的消息
 9. breaking news/up-to-date news 及时新闻
+
+<hr>
+
+
+## 2010真题卷
+
+
+
+### 招募启事常用表达
+
+开篇：说明写作目的
+
+1. we are seeking for... to work with us in ...
+2. we plan to recruit...to...
+3. this position will provide a challenge,stimulating and rewarding career opportunity
+
+中间段：罗列对应聘者的具体要求
+
+1. to be considered for... it would be preferable if you...
+2. candidates for the above position should have...
+3. candidates are excepted to...
+
+结尾：提供招聘
+
+1. if you are interested in this position,you can send your resume to ...
+2. for more details,you can contact...
+
+### 话题补充材料
+
+1. chinese cultural symbols 中国文化符号
+2. cultural exchanges 文化交流
+3. Cultural diversity 文化多元性
+4. mix together 混合在一起
+5. merge into 合并
+6. moral values 道德价值
+7. performing art 表演艺术
+8. Spiritual wealth 精神财富
+
+<hr>
+
+
+
+## 2011真题卷
+
+### 辞职信常用表达
+
+开篇：说明写作目的
+
+1. you asked me for my opinion on... i am writing to you to recommend...
+2. this letter serves to recommand xxx for employment
+3. at your request ,i evaluated serveral...to determine which one you should pruchase. i believe that.. will best serve your needs at the price you budget
+
+中间段：具体介绍所推荐的人或物
+
+1. XXX is one of the most pleasant persons you'll ever meet or work with
+2. the characteristic this is most commendable i am sure..
+3. i strongly recommand... to you because i am sure..
+
+结尾：表达期待
+
+1. For all of these reasons, i think xxx will make a fine addition to your team
+2. should you have any questions, i invite you to contact me at (phone number)
+
+### 话题补充材料
+
+1. ancient monument 古迹
+2. Tourism industry 旅游产业
+3. scenery/scenic spot/tourist attraction 景区
+4. household garbage 生活垃圾
+5. the deterioration of our environment at tourist spots 景区环境退化
 
 <hr>
 
