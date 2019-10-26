@@ -17,6 +17,9 @@
     - [2011真题卷](#2011真题卷)
         - [辞职信常用表达](#辞职信常用表达)
         - [话题补充材料](#话题补充材料-1)
+    - [2012真题卷](#2012真题卷)
+        - [建议信常用表达](#建议信常用表达-2)
+        - [话题补充表述](#话题补充表述-1)
 
 <!-- /TOC -->
 
@@ -227,4 +230,38 @@
 5. the deterioration of our environment at tourist spots 景区环境退化
 
 <hr>
+## 2012真题卷
+
+### 建议信常用表达
+
+开篇：说明写作目的
+
+1. i am writing this letter on behalf of ... to make some suggestions with regard to ...
+2. i have some suggestions for you to reconsider.And i would greatly appreciate you taking y suggestions into consideration.
+
+中间段：罗列建议
+
+1. to ... i would like to give/offer/render some recommendations follows.First and foremost,it is imperative for us to... in addition,we should...last ...
+2. i hereby suggest you to..also..might be useful . these are some important points that i wanted to mention.i am usre if ...you will...
+
+结尾：表达期待
+
+1. your prompt attention to my suggestions would be highly appreciated.
+2. if you wish to know more , please call me at ...
+
+
+
+### 话题补充表述
+
+1. optimistic 乐观的
+2. optimist 乐观者
+3. Positive 积极的
+4. bright 光明的
+5. promising 有前途的
+6. sanguine 乐观的
+7. Pessimistic 悲观的
+8. Pessimist 悲观者
+9. Negative 消极的
+10. grim 暗淡的
+11. despair 绝望
 
