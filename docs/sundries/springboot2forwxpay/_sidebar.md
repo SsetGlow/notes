@@ -1,4 +1,4 @@
-* [返回上一级](/se/)
+* [返回上一级](/sundries/)
 - [SpringBoot 2.X for WeiXin Pay](#springboot-2x-for-weixin-pay)
     - [第一章项目介绍和前期准备](#第一章项目介绍和前期准备)
     - [第二章 项目基础环境搭建和逆向工程构建](#第二章-项目基础环境搭建和逆向工程构建)
