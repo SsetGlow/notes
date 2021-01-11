@@ -1,3 +1,0 @@
-# ENGLISH NOTES
-> ssetglow
-

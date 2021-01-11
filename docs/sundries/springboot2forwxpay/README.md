@@ -9,7 +9,7 @@
 2. 微信支付项目效果演示
 3. 课程所需基础
    springboot2基础+javaweb+mysql+maven
-4. 开发环境 jdk8+eclipse和Idea
+4. 开发环境 jdk8+IDEA
 
 2、中大型公司里面项目开发流程讲解
 简介：讲解一个项目如何从零到上线，经历过怎样的步骤和流程
@@ -315,10 +315,10 @@ mybatis 下划线转驼峰配置,两者都可以
 		@SelectProvider   查询
 
 	2、写法
-
- 	public String updateVideo(final Video video){
-       return new SQL(){{
-           UPDATE("video");
+	
+	public String updateVideo(final Video video){
+	   return new SQL(){{
+	       UPDATE("video");
 
 ```java
        //条件写法.
@@ -894,24 +894,24 @@ private final static String OPEN_QRCODE_URL= "<https://open.weixin.qq.com/connec
 文档：<https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=9_7&index=3>
 
    	 1 、开发支付回调接口
-
+   	
    	 //读取回调输入流
-       StringBuffer sb = new StringBuffer();
-       InputStream inputStream = request.getInputStream();
-       String line ;
-       BufferedReader in = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
-       while ((line = in.readLine()) != null){
-           sb.append(line);
-       }
-       in.close();
-       inputStream.close();
-
-       //解析xml成map
-       //{transaction_id=4200000141201805266700247361, nonce_str=cbb67accd8044c9ea48f3318b99d88e4, bank_type=CFT, openid=oiNKG03vVY4PHlGUEwT-ztFo8K8Y, sign=0575804DBE4E9FFF6545046FA062BC4C, fee_type=CNY, mch_id=1503809911, cash_fee=1, out_trade_no=78902e694bab485b8e7745b61e05dbfe, appid=wx5beac15ca207c40c, total_fee=1, trade_type=NATIVE, result_code=SUCCESS, time_end=20180526162759, is_subscribe=Y, return_code=SUCCESS}
-       Map<String, String> callbackMap = WXPayUtil.xmlToMap(sb.toString());
-    
-       //获取有序map
-       SortedMap<String, String> sortedMap = CommonUtil.getSortedMap(callbackMap) ;
+   	   StringBuffer sb = new StringBuffer();
+   	   InputStream inputStream = request.getInputStream();
+   	   String line ;
+   	   BufferedReader in = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
+   	   while ((line = in.readLine()) != null){
+   	       sb.append(line);
+   	   }
+   	   in.close();
+   	   inputStream.close();
+   	
+   	   //解析xml成map
+   	   //{transaction_id=4200000141201805266700247361, nonce_str=cbb67accd8044c9ea48f3318b99d88e4, bank_type=CFT, openid=oiNKG03vVY4PHlGUEwT-ztFo8K8Y, sign=0575804DBE4E9FFF6545046FA062BC4C, fee_type=CNY, mch_id=1503809911, cash_fee=1, out_trade_no=78902e694bab485b8e7745b61e05dbfe, appid=wx5beac15ca207c40c, total_fee=1, trade_type=NATIVE, result_code=SUCCESS, time_end=20180526162759, is_subscribe=Y, return_code=SUCCESS}
+   	   Map<String, String> callbackMap = WXPayUtil.xmlToMap(sb.toString());
+   	
+   	   //获取有序map
+   	   SortedMap<String, String> sortedMap = CommonUtil.getSortedMap(callbackMap) ;
 
 
        回调数据：
@@ -1153,7 +1153,7 @@ private final static String OPEN_QRCODE_URL= "<https://open.weixin.qq.com/connec
     
        修改配置文件：
            	端口
- 		   	开放平台微信登录回调域名
+    	   	开放平台微信登录回调域名
     		微信支付回调域名
     		数据库连接，账户密码
 2、前后端启动接入Nginx代理服务器 简介：讲解前后端应用部署和配置nginx访问

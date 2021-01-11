@@ -1,3 +1,0 @@
-# MATH NOTES
-> ssetglow
-

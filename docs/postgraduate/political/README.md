@@ -1,2 +1,0 @@
-# POLITICAL NOTES
-> ssetglow

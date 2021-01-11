@@ -1,2 +1,0 @@
-# SOME DAILY NOTES
-> ssetglow
